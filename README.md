@@ -1,4 +1,4 @@
-👋 Hi, I'm @Asbeyy, I speak 5 languages fluently: Italian, English, Spanish, French, and German. I believe that my multilingual skills gives me a unique perspective on problem-solving and allows me to communicate effectively with people from diverse backgrounds.
+👋 Hi, I'm @Asbeyy, I speak 4 languages fluently: Italian, English, Spanish, French plus one but not so good, German. feel free to reach out in any on these. I believe that my multilingual skills gives me a unique perspective on problem-solving and allows me to communicate effectively with people from diverse backgrounds.
 
 👀 I'm interested in exploring new technologies and solving complex problems through code. I have a strong passion for Front-End development, and I'm proficient in a range of technologies such as JavaScript, React.js, Three.js, Node.js, Vite, Express.js, HTML, and CSS.
 
