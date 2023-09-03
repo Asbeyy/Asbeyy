@@ -1,6 +1,6 @@
 👋 Hi, I'm @Asbeyy, I speak 4 languages fluently: Italian, English, Spanish, French plus one but not so good, German. feel free to reach out in any on these. I believe that my multilingual skills gives me a unique perspective on problem-solving and allows me to communicate effectively with people from diverse backgrounds.
 
-👀 I'm interested in exploring new technologies and solving complex problems through code. I have a strong passion for Front-End development, and I'm proficient in a range of technologies such as JavaScript, React.js, Three.js, Node.js, Vite, Express.js, HTML, and CSS.
+I have a strong passion for Front-End development, and I'm proficient in a range of technologies such as JavaScript, React.js, Angular, Three.js
 
 🌱 I'm currently learning about back-end techonolgies, machine learning and data science, as I believe that these fields have enormous potential to transform the world we live in. Additionally, I'm always looking to improve my skills as a developer, and I'm currently learning new frameworks and libraries to stay up-to-date with the latest trends in software development.
 
