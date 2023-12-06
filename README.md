@@ -2,7 +2,7 @@
 
 I'm a multilingual Fullstack developer fluent in four languages: Italian, English, Spanish, and French, with a working knowledge of German. My diverse language skills provide me with a unique perspective on problem-solving and effective communication across various cultural backgrounds.
 
-![Federicos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asbeyy&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asbeyy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💻 Skills
 
