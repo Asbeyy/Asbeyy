@@ -30,8 +30,8 @@ I'm seeking collaborative projects that challenge me and offer opportunities to 
 You can find me on:
 
 - [GitHub](https://github.com/Asbeyy)
-- [Twitter](https://twitter.com/your_twitter_handle)
-- [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
+- [Twitter](https://twitter.com/_sBey)
+- [LinkedIn](https://www.linkedin.com/in/federico-lacchini-799099181/)
 
 Feel free to send me a message or connect with me on social media if you're interested in collaborating or discussing new ideas.
 
