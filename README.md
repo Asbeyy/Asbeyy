@@ -1,7 +1,8 @@
 # 👋 Hi, I'm @Asbeyy!
 
-As a seasoned Fullstack Web Developer,a natural problem solver. Besides coding i bring proficiency in four languages - Italian, English, Spanish, and French - along with a solid working knowledge of German. I excel in crafting robust digital solutions that seamlessly blend functionality and elegance. My dedication to clean, efficient code ensures not only the functionality but also the maintainability and scalability of projects. Passionate about delivering exceptional user experiences, I approach each project with a commitment to excellence, leveraging my diverse linguistic and technical skills to bridge communication gaps and create impactful digital solutions. Let's collaborate and bring your ideas to life with precision and professionalism.
+As a seasoned Fullstack Web Developer,a natural problem solver. Besides coding i bring proficiency in four languages - My dedication to clean, efficient code ensures not only the functionality but also the maintainability and scalability of projects. Passionate about delivering exceptional UI and UX, I approach each project with a commitment to excellence, leveraging my diverse linguistic and technical skills to bridge communication gaps and create impactful digital solutions. Let's collaborate and bring your ideas to life with precision and professionalism.
 
+[Visit my website](https://www.asbeyy.xyz)
 
 ## 💻 Skills
 
