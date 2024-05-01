@@ -7,7 +7,7 @@ As a seasoned Fullstack Web Developer,a natural problem solver. Besides coding i
 
 I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
 
-## Frontend:
+### Frontend:
 ---
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
@@ -20,7 +20,7 @@ I have a strong passion for front-End development and proficiency in a range of 
 ![SASS](https://img.shields.io/badge/-SASS-pink?logo=sass)
 
 
-## Backend:
+### Backend:
 ---
 ![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)
