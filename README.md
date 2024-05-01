@@ -1,7 +1,6 @@
 # 👋 Hi, I'm @Asbeyy!
 
-I'm a multilingual Fullstack developer fluent in four languages: Italian, English, Spanish, and French, with a working knowledge of German. My diverse language skills provide me with a unique perspective on problem-solving and effective communication across various cultural backgrounds.
-
+As a seasoned Fullstack Web Developer,a natural problem solver. Besides coding i bring proficiency in four languages - Italian, English, Spanish, and French - along with a solid working knowledge of German. I excel in crafting robust digital solutions that seamlessly blend functionality and elegance. My dedication to clean, efficient code ensures not only the functionality but also the maintainability and scalability of projects. Passionate about delivering exceptional user experiences, I approach each project with a commitment to excellence, leveraging my diverse linguistic and technical skills to bridge communication gaps and create impactful digital solutions. Let's collaborate and bring your ideas to life with precision and professionalism.
 
 
 ## 💻 Skills
@@ -9,6 +8,7 @@ I'm a multilingual Fullstack developer fluent in four languages: Italian, Englis
 I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
 
 Frontend:
+---
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
@@ -21,6 +21,7 @@ Frontend:
 
 
 Backend:
+---
 ![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
