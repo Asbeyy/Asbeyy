@@ -8,7 +8,7 @@ I'm a multilingual Fullstack developer fluent in four languages: Italian, Englis
 
 I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
 
-- **JavaScript (JS)**
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 - **TypeScript (TS)**
 - **Solidity@** (Ethereum / Blockchain)
 - **Three.js**
