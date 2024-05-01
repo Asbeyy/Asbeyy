@@ -7,9 +7,8 @@ As a seasoned Fullstack Web Developer,a natural problem solver. Besides coding i
 
 I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
 
-### Frontend:
----
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+1. Frontend
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
@@ -20,9 +19,8 @@ I have a strong passion for front-End development and proficiency in a range of 
 ![SASS](https://img.shields.io/badge/-SASS-pink?logo=sass)
 
 
-### Backend:
----
-![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
+2. Backend
+- ![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express)
