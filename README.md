@@ -9,22 +9,20 @@ I'm a multilingual Fullstack developer fluent in four languages: Italian, Englis
 I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-- **TypeScript (TS)**
-- **Solidity@** (Ethereum / Blockchain)
-- **Three.js**
-- **C++**
-- **HTML5**
-- **CSS3**
-- **SASS**
-
-- **React.js**
-- **Next.js**
-- **Angular**
-
-- **Node.js**
-- **Express.js**
-- **MongoDB (MONGO)**
-- **PostgreSQL**
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
+![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js)
+![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-pink?logo=sass)
+![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
 
 
 ## 🌱 Currently Learning
